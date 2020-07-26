@@ -8,4 +8,7 @@
 #### Currently at a year long placement at [Knorr-Bremse](https://www.knorr-bremse.co.uk/en/). Will be going back for my 3rd & final year of university at Cardiff afterwards. 
 
 ### My GitHub stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=stivdc&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=stivdc&show_icons=true&theme=nightowl)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StivDC)](https://github.com/StivDC/github-readme-stats)
+
