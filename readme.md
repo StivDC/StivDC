@@ -10,5 +10,4 @@
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=stivdc&show_icons=true&theme=nightowl)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StivDC)](https://github.com/StivDC/github-readme-stats)
 
